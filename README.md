@@ -10,6 +10,11 @@ Kart, MGM NAVARİS takımının TEKNOFEST 2025 İnsansız Deniz Aracı yarışma
 </p>
 <p align="center"><sub>Üretim Gerber dosyalarından oluşturulmuş üst ve alt yüz görünümü (alt yüz aynalanmıştır).</sub></p>
 
+
+<p align="center">
+  <img src="PCB-soldered.jpg" width="48%" alt="PCB lehimlenmiş hali"/>
+</p>
+
 ---
 
 ## İçindekiler
