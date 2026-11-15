@@ -63,7 +63,6 @@ STM32H7 kart aracın merkezindedir:
 | Tahrik | 2 × 50 A ESC | PWM |
 | Uyarı | Aktif buzzer | GPIO |
 
-> **Not:** Blok diyagram sistemin genel mimarisini gösterir; OLED ekran, SD kart gibi bazı bloklar bu kart revizyonunda yer almaz. Güncel bağlantılar için şematik sayfaları esas alınmalıdır.
 
 ---
 
