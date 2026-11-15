@@ -5,8 +5,8 @@
 Kart, MGM NAVARİS takımının TEKNOFEST 2025 İnsansız Deniz Aracı yarışmasında kullandığı araç için geliştirilmiştir. Araç Pixhawk/ArduPilot gibi hazır bir uçuş kontrolcüsü yerine **kendi kartı ve kendi kontrol yazılımıyla** çalışır.
 
 <p align="center">
-  <img src="docs/images/pcb_top.png" width="48%" alt="PCB üst yüz (Gerber render)"/>
-  <img src="docs/images/pcb_bottom.png" width="48%" alt="PCB alt yüz (Gerber render)"/>
+  <img src="pcb_top.png" width="48%" alt="PCB üst yüz (Gerber render)"/>
+  <img src="pcb_bottom.png" width="48%" alt="PCB alt yüz (Gerber render)"/>
 </p>
 <p align="center"><sub>Üretim Gerber dosyalarından oluşturulmuş üst ve alt yüz görünümü (alt yüz aynalanmıştır).</sub></p>
 
@@ -42,10 +42,6 @@ Kart, MGM NAVARİS takımının TEKNOFEST 2025 İnsansız Deniz Aracı yarışma
 ---
 
 ## Sistem Mimarisi
-
-<p align="center">
-  <img src="docs/images/sistem_blok_diyagrami.jpg" width="90%" alt="İDA sistem blok diyagramı"/>
-</p>
 
 Araç, 6S Li-ion batarya (24 V nominal) ile beslenir. Ana güç hattı 130 A katı hal sigorta ve akım kesiciden geçerek iki adet 50 A ESC üzerinden su altı iticilerine (*thruster*) gider. Elektronik için 24 V hattan 12 V, 5 V ve 3.3 V regüle edilir.
 
