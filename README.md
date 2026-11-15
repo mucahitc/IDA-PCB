@@ -14,7 +14,7 @@ Kart, MGM NAVARİS takımının TEKNOFEST 2025 İnsansız Deniz Aracı yarışma
 <p align="center">
   <img src="PCB-soldered.jpg" width="48%" alt="PCB lehimlenmiş hali"/>
 </p>
-
+<p align="center"><sub>Kartın lehimlenmiş halidir fakat BNO080 böyle monte edilmemiştir. Yazıyı sonuna kadar okuyunuz.</sub></p>
 ---
 
 ## İçindekiler
