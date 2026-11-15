@@ -234,7 +234,7 @@ IDA-PCB/
 - **BNO08x pin sırası:** IMU modülünün pinout'u footprint'te hatalı alınmış, kart üzerinde harici kablolama ile düzeltilmiştir. Sonraki revizyonda footprint düzeltilecektir.
 - **Modül tabanlı yapı:** MCU, IMU ve sıcaklık sensörü hazır modüller üzerinden bağlanır. Hedef, bu modüllerin doğrudan kart üzerine (*chip-down*) tasarlanmasıdır.
 - **Yerlileştirme hedefleri:** görüntü işleme bilgisayarı, 50 A çift yönlü ESC ve gerilim regülatörlerinin takım içinde tasarlanması.
-
+- **Kütüphane eksikliği:** Proje içerisinde şematik ve PCB kütüphaneleri paylaşılmamıştır. Çünkü kart çizimi sırasında parçalar başka kütüphanelerden parça parça alınmıştır. Bu yüzden tek bir kütüphane mevcut değildir.
 ---
 
 ## Yazar
